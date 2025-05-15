@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Task-Manager/static/css/main.a98407b2.css",
+    "main.js": "/Student-Task-Manager/static/js/main.c96a94e4.js",
+    "index.html": "/Student-Task-Manager/index.html",
+    "main.a98407b2.css.map": "/Student-Task-Manager/static/css/main.a98407b2.css.map",
+    "main.c96a94e4.js.map": "/Student-Task-Manager/static/js/main.c96a94e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98407b2.css",
+    "static/js/main.c96a94e4.js"
+  ]
+}
